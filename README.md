@@ -1,1 +1,1 @@
-# event_manager
+# Odin project: Event Manager
